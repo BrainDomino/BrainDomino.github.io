@@ -153,6 +153,17 @@ header p {
 	transition: all 0.5s;
 	border-radius: 4px;
 }
+.btn-large {
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	background-color: transparent;
+	border: 2px solid rgba(255,255,255,0.8);
+	margin: 0 8px;
+	padding: 12px 24px;
+	font-size: 24px;
+	transition: all 0.5s;
+	border-radius: 4px;
+}
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
 	background-color: #fff;
 	color: #0dad8d;
